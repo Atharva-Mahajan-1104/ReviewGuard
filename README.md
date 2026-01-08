@@ -58,7 +58,7 @@ Credibility Score + Prediction
 ## ⚙️ How It Works
 
 1. **Input**
-   Review text is provided via CSV or the web interface.
+   Review text is provided via the CSV or the web interface.
 
 2. **Processing**
    The text undergoes cleaning, normalization, and pattern extraction.
