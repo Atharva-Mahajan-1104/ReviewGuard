@@ -54,29 +54,6 @@ Credibility Score + Prediction
 
 ---
 
-## 📁 Project Layout
-
-```bash
-reviewguard/
-├── app/
-│   └── web_interface.py
-├── core/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train_model.py
-│   └── inference.py
-├── data/
-│   └── sample_reviews.csv
-├── artifacts/
-│   ├── trained_pipeline.joblib
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── precision_recall_curve.png
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## ⚙️ How It Works
 
